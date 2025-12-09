@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Shell
+    x:Class="MobilProj.AppShell"
+    xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    xmlns:local="clr-namespace:MobilProj"
+    xmlns:views="clr-namespace:MobilProj.View"
+    Shell.FlyoutBehavior="Disabled"
+    Title="MobilProj">
+
+    <TabBar>
+        <ShellContent
+        Title="Drivers"
+        ContentTemplate="{DataTemplate views:DriverView}" />
+    </TabBar>
+
+    
+
+</Shell>
