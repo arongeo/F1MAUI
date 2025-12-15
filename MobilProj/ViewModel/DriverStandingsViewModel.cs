@@ -19,21 +19,24 @@ namespace MobilProj.ViewModel
     public class DriverStandingsViewModel
     {
         public ObservableCollection<DriverStanding> DriverStandings { get; private set; } = new();
-
-        public DriverStandingsViewModel() {}
+        private RaceService _raceService;
+        
+        public DriverStandingsViewModel(RaceService rs) {
+            _raceService = rs;
+        }
 
         public async Task LoadStandings()
         {
-            await RaceService.Load();
+            await _raceService.Load();
 
             DriverStandings.Clear();
 
             int pos = 1;
 
-            foreach (var standing in RaceService.Races
+            foreach (var standing in _raceService.Races
                 .SelectMany(x => x.Results)
                 .GroupBy(x => x.Driver, (d, r) => new { Driver = d, Points = r })
-                .Select(x => new { Driver = x.Driver, Points = x.Points.Sum(x => x.Points) })
+                .Select(x => new { x.Driver, Points = x.Points.Sum(x => x.Points) })
                 .OrderByDescending(x => x.Points)
             )
                 DriverStandings.Add(new DriverStanding
@@ -46,7 +49,7 @@ namespace MobilProj.ViewModel
 
         public async Task RefreshStandings()
         {
-            await RaceService.Refresh();
+            await _raceService.Refresh();
             await LoadStandings();
         }
     }

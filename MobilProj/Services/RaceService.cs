@@ -10,20 +10,25 @@ using System.Threading.Tasks;
 
 namespace MobilProj.Services
 {
-    public static class RaceService
+    public class RaceService
     {
-        private static readonly HttpClient _httpClient = new HttpClient();
-        private static readonly string URL = $"https://api.jolpi.ca/ergast/f1/{DateTime.Now.Year}/results/";
+        private readonly HttpClient _httpClient;
+        private readonly string URL = $"https://api.jolpi.ca/ergast/f1/{DateTime.Now.Year}/results/";
 
-        public static List<Race> Races { get; private set; } = new List<Race>();
+        public List<Race> Races { get; private set; } = new List<Race>();
 
-        public static async Task Refresh()
+        public RaceService(HttpClient hc)
+        {
+            _httpClient = hc;
+        } 
+
+        public async Task Refresh()
         {
             Races.Clear();
             await Load();
         }
 
-        public static async Task Load()
+        public async Task Load()
         {
             if (Races.Count != 0) return;
 

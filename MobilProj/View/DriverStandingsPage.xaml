@@ -4,9 +4,6 @@
              x:Class="MobilProj.View.DriverStandingsPage"
              xmlns:vm="clr-namespace:MobilProj.ViewModel"
              Title="DriverStandingsPage">
-    <ContentPage.BindingContext>
-        <vm:DriverStandingsViewModel />
-    </ContentPage.BindingContext>
     <VerticalStackLayout>
     <HorizontalStackLayout>
         <Button Text="Frissit" Clicked="Button_Clicked" />

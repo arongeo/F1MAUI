@@ -5,16 +5,21 @@ namespace MobilProj.View;
 
 public partial class DriverStandingsPage : ContentPage
 {
-	DriverStandingsViewModel VM => BindingContext as DriverStandingsViewModel;
+	DriverStandingsViewModel VM;
 
-	public DriverStandingsPage()
+	public DriverStandingsPage(DriverStandingsViewModel vm)
 	{
 		InitializeComponent();
+
+		VM = vm;
+		BindingContext = vm;
 	}
 
 	private async void Button_Clicked(object sender, EventArgs e) => await VM.RefreshStandings();
     protected override async void OnAppearing()
     {
-		await VM.LoadStandings();
+		if (VM != null)
+			await VM.LoadStandings();
     }
+
 }

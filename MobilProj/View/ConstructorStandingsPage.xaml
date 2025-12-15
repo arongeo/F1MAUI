@@ -2,11 +2,22 @@
 <ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="MobilProj.View.ConstructorStandingsPage"
+             xmlns:vm="clr-namespace:MobilProj.ViewModel"
              Title="ConstructorStandingsPage">
     <VerticalStackLayout>
-        <Label 
-            Text="Welcome to .NET MAUI!"
-            VerticalOptions="Center" 
-            HorizontalOptions="Center" />
+        <HorizontalStackLayout>
+            <Button Text="Frissit" Clicked="Button_Clicked" />
+        </HorizontalStackLayout>
+        <CollectionView ItemsSource="{Binding ConstructorStandings}">
+            <CollectionView.ItemTemplate>
+                <DataTemplate>
+                    <StackLayout Orientation="Horizontal">
+                        <Label Text="{Binding Position}" />
+                        <Label Text="{Binding Constructor.Name}" />
+                        <Label Text="{Binding Points}" />
+                    </StackLayout>
+                </DataTemplate>
+            </CollectionView.ItemTemplate>
+        </CollectionView>
     </VerticalStackLayout>
 </ContentPage>
