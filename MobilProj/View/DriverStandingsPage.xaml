@@ -11,17 +11,16 @@
     <HorizontalStackLayout>
         <Button Text="Frissit" Clicked="Button_Clicked" />
     </HorizontalStackLayout>
-    <ScrollView>
-        <StackLayout BindableLayout.ItemsSource="{Binding DriverStandings}">
-            <BindableLayout.ItemTemplate>
+        <CollectionView ItemsSource="{Binding DriverStandings}">
+            <CollectionView.ItemTemplate>
                 <DataTemplate>
                     <StackLayout Orientation="Horizontal">
+                        <Label Text="{Binding Position}" />
                         <Label Text="{Binding Driver.Name}" />
                         <Label Text="{Binding Points}" />
                     </StackLayout>
                 </DataTemplate>
-            </BindableLayout.ItemTemplate>
-        </StackLayout>
-    </ScrollView>
+            </CollectionView.ItemTemplate>
+        </CollectionView>
     </VerticalStackLayout>
 </ContentPage>

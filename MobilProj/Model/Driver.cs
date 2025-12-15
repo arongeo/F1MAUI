@@ -31,7 +31,12 @@ namespace MobilProj.Model
         {
             var other = obj as Driver;
             if (other == null) return false;
-            return this.DriverId == other.DriverId;
+            return this.DriverId == other.DriverId && this.Name == other.Name;
+        }
+
+        public override int GetHashCode()
+        {
+            return this.DriverId.GetHashCode() ^ this.Name.GetHashCode();
         }
     }
 }

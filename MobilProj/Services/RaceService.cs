@@ -13,11 +13,17 @@ namespace MobilProj.Services
     public static class RaceService
     {
         private static readonly HttpClient _httpClient = new HttpClient();
-        private static string URL = $"https://api.jolpi.ca/ergast/f1/{DateTime.Now.Year}/results/";
+        private static readonly string URL = $"https://api.jolpi.ca/ergast/f1/{DateTime.Now.Year}/results/";
 
         public static List<Race> Races { get; private set; } = new List<Race>();
 
-        public static async Task LoadRaces()
+        public static async Task Refresh()
+        {
+            Races.Clear();
+            await Load();
+        }
+
+        public static async Task Load()
         {
             if (Races.Count != 0) return;
 

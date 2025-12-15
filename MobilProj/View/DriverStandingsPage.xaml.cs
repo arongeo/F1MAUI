@@ -12,5 +12,9 @@ public partial class DriverStandingsPage : ContentPage
 		InitializeComponent();
 	}
 
-	private async void Button_Clicked(object sender, EventArgs e) => await VM.LoadStandings();
+	private async void Button_Clicked(object sender, EventArgs e) => await VM.RefreshStandings();
+    protected override async void OnAppearing()
+    {
+		await VM.LoadStandings();
+    }
 }

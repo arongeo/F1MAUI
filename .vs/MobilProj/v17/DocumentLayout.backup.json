@@ -1,0 +1,353 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\arongeo\\Desktop\\F1MAUI1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F7778765-D83A-4C47-9508-FEB98A0768CA}|MobilProj\\MobilProj.csproj|c:\\users\\arongeo\\desktop\\f1maui1\\mobilproj\\viewmodel\\driverstandingsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7778765-D83A-4C47-9508-FEB98A0768CA}|MobilProj\\MobilProj.csproj|solutionrelative:mobilproj\\viewmodel\\driverstandingsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7778765-D83A-4C47-9508-FEB98A0768CA}|MobilProj\\MobilProj.csproj|c:\\users\\arongeo\\desktop\\f1maui1\\mobilproj\\view\\driverstandingspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7778765-D83A-4C47-9508-FEB98A0768CA}|MobilProj\\MobilProj.csproj|solutionrelative:mobilproj\\view\\driverstandingspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7778765-D83A-4C47-9508-FEB98A0768CA}|MobilProj\\MobilProj.csproj|c:\\users\\arongeo\\desktop\\f1maui1\\mobilproj\\services\\raceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7778765-D83A-4C47-9508-FEB98A0768CA}|MobilProj\\MobilProj.csproj|solutionrelative:mobilproj\\services\\raceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7778765-D83A-4C47-9508-FEB98A0768CA}|MobilProj\\MobilProj.csproj|c:\\users\\arongeo\\desktop\\f1maui1\\mobilproj\\viewmodel\\constructorstandingsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7778765-D83A-4C47-9508-FEB98A0768CA}|MobilProj\\MobilProj.csproj|solutionrelative:mobilproj\\viewmodel\\constructorstandingsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7778765-D83A-4C47-9508-FEB98A0768CA}|MobilProj\\MobilProj.csproj|c:\\users\\arongeo\\desktop\\f1maui1\\mobilproj\\view\\driverstandingspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F7778765-D83A-4C47-9508-FEB98A0768CA}|MobilProj\\MobilProj.csproj|solutionrelative:mobilproj\\view\\driverstandingspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7778765-D83A-4C47-9508-FEB98A0768CA}|MobilProj\\MobilProj.csproj|c:\\users\\arongeo\\desktop\\f1maui1\\mobilproj\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F7778765-D83A-4C47-9508-FEB98A0768CA}|MobilProj\\MobilProj.csproj|solutionrelative:mobilproj\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7778765-D83A-4C47-9508-FEB98A0768CA}|MobilProj\\MobilProj.csproj|c:\\users\\arongeo\\desktop\\f1maui1\\mobilproj\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7778765-D83A-4C47-9508-FEB98A0768CA}|MobilProj\\MobilProj.csproj|solutionrelative:mobilproj\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7778765-D83A-4C47-9508-FEB98A0768CA}|MobilProj\\MobilProj.csproj|c:\\users\\arongeo\\desktop\\f1maui1\\mobilproj\\view\\constructorstandingspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7778765-D83A-4C47-9508-FEB98A0768CA}|MobilProj\\MobilProj.csproj|solutionrelative:mobilproj\\view\\constructorstandingspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7778765-D83A-4C47-9508-FEB98A0768CA}|MobilProj\\MobilProj.csproj|c:\\users\\arongeo\\desktop\\f1maui1\\mobilproj\\view\\constructorstandingspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F7778765-D83A-4C47-9508-FEB98A0768CA}|MobilProj\\MobilProj.csproj|solutionrelative:mobilproj\\view\\constructorstandingspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7778765-D83A-4C47-9508-FEB98A0768CA}|MobilProj\\MobilProj.csproj|c:\\users\\arongeo\\desktop\\f1maui1\\mobilproj\\model\\driver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7778765-D83A-4C47-9508-FEB98A0768CA}|MobilProj\\MobilProj.csproj|solutionrelative:mobilproj\\model\\driver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7778765-D83A-4C47-9508-FEB98A0768CA}|MobilProj\\MobilProj.csproj|c:\\users\\arongeo\\desktop\\f1maui1\\mobilproj\\model\\race.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7778765-D83A-4C47-9508-FEB98A0768CA}|MobilProj\\MobilProj.csproj|solutionrelative:mobilproj\\model\\race.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7778765-D83A-4C47-9508-FEB98A0768CA}|MobilProj\\MobilProj.csproj|c:\\users\\arongeo\\desktop\\f1maui1\\mobilproj\\model\\constructor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7778765-D83A-4C47-9508-FEB98A0768CA}|MobilProj\\MobilProj.csproj|solutionrelative:mobilproj\\model\\constructor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7778765-D83A-4C47-9508-FEB98A0768CA}|MobilProj\\MobilProj.csproj|c:\\users\\arongeo\\desktop\\f1maui1\\mobilproj\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7778765-D83A-4C47-9508-FEB98A0768CA}|MobilProj\\MobilProj.csproj|solutionrelative:mobilproj\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7778765-D83A-4C47-9508-FEB98A0768CA}|MobilProj\\MobilProj.csproj|c:\\users\\arongeo\\desktop\\f1maui1\\mobilproj\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7778765-D83A-4C47-9508-FEB98A0768CA}|MobilProj\\MobilProj.csproj|solutionrelative:mobilproj\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7778765-D83A-4C47-9508-FEB98A0768CA}|MobilProj\\MobilProj.csproj|c:\\users\\arongeo\\desktop\\f1maui1\\mobilproj\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F7778765-D83A-4C47-9508-FEB98A0768CA}|MobilProj\\MobilProj.csproj|solutionrelative:mobilproj\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7778765-D83A-4C47-9508-FEB98A0768CA}|MobilProj\\MobilProj.csproj|c:\\users\\arongeo\\desktop\\f1maui1\\mobilproj\\platforms\\windows\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F7778765-D83A-4C47-9508-FEB98A0768CA}|MobilProj\\MobilProj.csproj|solutionrelative:mobilproj\\platforms\\windows\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7778765-D83A-4C47-9508-FEB98A0768CA}|MobilProj\\MobilProj.csproj|c:\\users\\arongeo\\desktop\\f1maui1\\mobilproj\\platforms\\windows\\app.manifest||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{F7778765-D83A-4C47-9508-FEB98A0768CA}|MobilProj\\MobilProj.csproj|solutionrelative:mobilproj\\platforms\\windows\\app.manifest||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7778765-D83A-4C47-9508-FEB98A0768CA}|MobilProj\\MobilProj.csproj|c:\\users\\arongeo\\desktop\\f1maui1\\mobilproj\\platforms\\windows\\package.appxmanifest||{4D47164B-07B6-4A52-A855-728D6A2E2AA3}",
+      "RelativeMoniker": "D:0:0:{F7778765-D83A-4C47-9508-FEB98A0768CA}|MobilProj\\MobilProj.csproj|solutionrelative:mobilproj\\platforms\\windows\\package.appxmanifest||{4D47164B-07B6-4A52-A855-728D6A2E2AA3}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7778765-D83A-4C47-9508-FEB98A0768CA}|MobilProj\\MobilProj.csproj|c:\\users\\arongeo\\desktop\\f1maui1\\mobilproj\\model\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7778765-D83A-4C47-9508-FEB98A0768CA}|MobilProj\\MobilProj.csproj|solutionrelative:mobilproj\\model\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\sdk\\9.0.306\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.EolTargetFrameworks.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AppShell.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\arongeo\\Desktop\\F1MAUI1\\MobilProj\\AppShell.xaml.cs",
+              "RelativeDocumentMoniker": "MobilProj\\AppShell.xaml.cs",
+              "ToolTip": "C:\\Users\\arongeo\\Desktop\\F1MAUI1\\MobilProj\\AppShell.xaml.cs",
+              "RelativeToolTip": "MobilProj\\AppShell.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-13T11:44:29.844Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AppShell.xaml",
+              "DocumentMoniker": "C:\\Users\\arongeo\\Desktop\\F1MAUI1\\MobilProj\\AppShell.xaml",
+              "RelativeDocumentMoniker": "MobilProj\\AppShell.xaml",
+              "ToolTip": "C:\\Users\\arongeo\\Desktop\\F1MAUI1\\MobilProj\\AppShell.xaml",
+              "RelativeToolTip": "MobilProj\\AppShell.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAiwBAAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-12-13T11:36:27.371Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DriverStandingsPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\arongeo\\Desktop\\F1MAUI1\\MobilProj\\View\\DriverStandingsPage.xaml.cs",
+              "RelativeDocumentMoniker": "MobilProj\\View\\DriverStandingsPage.xaml.cs",
+              "ToolTip": "C:\\Users\\arongeo\\Desktop\\F1MAUI1\\MobilProj\\View\\DriverStandingsPage.xaml.cs",
+              "RelativeToolTip": "MobilProj\\View\\DriverStandingsPage.xaml.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAgwA4AAABbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-13T11:35:45.767Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ConstructorStandingsViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\arongeo\\Desktop\\F1MAUI1\\MobilProj\\ViewModel\\ConstructorStandingsViewModel.cs",
+              "RelativeDocumentMoniker": "MobilProj\\ViewModel\\ConstructorStandingsViewModel.cs",
+              "ToolTip": "C:\\Users\\arongeo\\Desktop\\F1MAUI1\\MobilProj\\ViewModel\\ConstructorStandingsViewModel.cs",
+              "RelativeToolTip": "MobilProj\\ViewModel\\ConstructorStandingsViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T18:08:22.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DriverStandingsViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\arongeo\\Desktop\\F1MAUI1\\MobilProj\\ViewModel\\DriverStandingsViewModel.cs",
+              "RelativeDocumentMoniker": "MobilProj\\ViewModel\\DriverStandingsViewModel.cs",
+              "ToolTip": "C:\\Users\\arongeo\\Desktop\\F1MAUI1\\MobilProj\\ViewModel\\DriverStandingsViewModel.cs",
+              "RelativeToolTip": "MobilProj\\ViewModel\\DriverStandingsViewModel.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAA6wDEAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-13T11:21:26.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RaceService.cs",
+              "DocumentMoniker": "C:\\Users\\arongeo\\Desktop\\F1MAUI1\\MobilProj\\Services\\RaceService.cs",
+              "RelativeDocumentMoniker": "MobilProj\\Services\\RaceService.cs",
+              "ToolTip": "C:\\Users\\arongeo\\Desktop\\F1MAUI1\\MobilProj\\Services\\RaceService.cs",
+              "RelativeToolTip": "MobilProj\\Services\\RaceService.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAQwBYAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-13T10:15:42.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DriverStandingsPage.xaml",
+              "DocumentMoniker": "C:\\Users\\arongeo\\Desktop\\F1MAUI1\\MobilProj\\View\\DriverStandingsPage.xaml",
+              "RelativeDocumentMoniker": "MobilProj\\View\\DriverStandingsPage.xaml",
+              "ToolTip": "C:\\Users\\arongeo\\Desktop\\F1MAUI1\\MobilProj\\View\\DriverStandingsPage.xaml",
+              "RelativeToolTip": "MobilProj\\View\\DriverStandingsPage.xaml",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAiwBMAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-12-13T11:35:41.454Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Constructor.cs",
+              "DocumentMoniker": "C:\\Users\\arongeo\\Desktop\\F1MAUI1\\MobilProj\\Model\\Constructor.cs",
+              "RelativeDocumentMoniker": "MobilProj\\Model\\Constructor.cs",
+              "ToolTip": "C:\\Users\\arongeo\\Desktop\\F1MAUI1\\MobilProj\\Model\\Constructor.cs",
+              "RelativeToolTip": "MobilProj\\Model\\Constructor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-13T10:28:04.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ConstructorStandingsPage.xaml",
+              "DocumentMoniker": "C:\\Users\\arongeo\\Desktop\\F1MAUI1\\MobilProj\\View\\ConstructorStandingsPage.xaml",
+              "RelativeDocumentMoniker": "MobilProj\\View\\ConstructorStandingsPage.xaml",
+              "ToolTip": "C:\\Users\\arongeo\\Desktop\\F1MAUI1\\MobilProj\\View\\ConstructorStandingsPage.xaml",
+              "RelativeToolTip": "MobilProj\\View\\ConstructorStandingsPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-12-15T18:07:59.353Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ConstructorStandingsPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\arongeo\\Desktop\\F1MAUI1\\MobilProj\\View\\ConstructorStandingsPage.xaml.cs",
+              "RelativeDocumentMoniker": "MobilProj\\View\\ConstructorStandingsPage.xaml.cs",
+              "ToolTip": "C:\\Users\\arongeo\\Desktop\\F1MAUI1\\MobilProj\\View\\ConstructorStandingsPage.xaml.cs",
+              "RelativeToolTip": "MobilProj\\View\\ConstructorStandingsPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T18:08:30.101Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Race.cs",
+              "DocumentMoniker": "C:\\Users\\arongeo\\Desktop\\F1MAUI1\\MobilProj\\Model\\Race.cs",
+              "RelativeDocumentMoniker": "MobilProj\\Model\\Race.cs",
+              "ToolTip": "C:\\Users\\arongeo\\Desktop\\F1MAUI1\\MobilProj\\Model\\Race.cs",
+              "RelativeToolTip": "MobilProj\\Model\\Race.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAxwBEAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-13T10:15:14.354Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Driver.cs",
+              "DocumentMoniker": "C:\\Users\\arongeo\\Desktop\\F1MAUI1\\MobilProj\\Model\\Driver.cs",
+              "RelativeDocumentMoniker": "MobilProj\\Model\\Driver.cs",
+              "ToolTip": "C:\\Users\\arongeo\\Desktop\\F1MAUI1\\MobilProj\\Model\\Driver.cs",
+              "RelativeToolTip": "MobilProj\\Model\\Driver.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAuwCEAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-13T10:27:42.228Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MauiProgram.cs",
+              "DocumentMoniker": "C:\\Users\\arongeo\\Desktop\\F1MAUI1\\MobilProj\\MauiProgram.cs",
+              "RelativeDocumentMoniker": "MobilProj\\MauiProgram.cs",
+              "ToolTip": "C:\\Users\\arongeo\\Desktop\\F1MAUI1\\MobilProj\\MauiProgram.cs",
+              "RelativeToolTip": "MobilProj\\MauiProgram.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-13T10:23:56.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\arongeo\\Desktop\\F1MAUI1\\MobilProj\\App.xaml",
+              "RelativeDocumentMoniker": "MobilProj\\App.xaml",
+              "ToolTip": "C:\\Users\\arongeo\\Desktop\\F1MAUI1\\MobilProj\\App.xaml",
+              "RelativeToolTip": "MobilProj\\App.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-12-13T11:44:25.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\arongeo\\Desktop\\F1MAUI1\\MobilProj\\App.xaml.cs",
+              "RelativeDocumentMoniker": "MobilProj\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\arongeo\\Desktop\\F1MAUI1\\MobilProj\\App.xaml.cs",
+              "RelativeToolTip": "MobilProj\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-13T11:44:24.411Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\arongeo\\Desktop\\F1MAUI1\\MobilProj\\Platforms\\Windows\\App.xaml",
+              "RelativeDocumentMoniker": "MobilProj\\Platforms\\Windows\\App.xaml",
+              "ToolTip": "C:\\Users\\arongeo\\Desktop\\F1MAUI1\\MobilProj\\Platforms\\Windows\\App.xaml",
+              "RelativeToolTip": "MobilProj\\Platforms\\Windows\\App.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-12-14T12:12:31.66Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "app.manifest",
+              "DocumentMoniker": "C:\\Users\\arongeo\\Desktop\\F1MAUI1\\MobilProj\\Platforms\\Windows\\app.manifest",
+              "RelativeDocumentMoniker": "MobilProj\\Platforms\\Windows\\app.manifest",
+              "ToolTip": "C:\\Users\\arongeo\\Desktop\\F1MAUI1\\MobilProj\\Platforms\\Windows\\app.manifest",
+              "RelativeToolTip": "MobilProj\\Platforms\\Windows\\app.manifest",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001203|",
+              "WhenOpened": "2025-12-14T12:10:45.927Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Package.appxmanifest",
+              "DocumentMoniker": "C:\\Users\\arongeo\\Desktop\\F1MAUI1\\MobilProj\\Platforms\\Windows\\Package.appxmanifest",
+              "RelativeDocumentMoniker": "MobilProj\\Platforms\\Windows\\Package.appxmanifest",
+              "ToolTip": "C:\\Users\\arongeo\\Desktop\\F1MAUI1\\MobilProj\\Platforms\\Windows\\Package.appxmanifest",
+              "RelativeToolTip": "MobilProj\\Platforms\\Windows\\Package.appxmanifest",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001793|",
+              "WhenOpened": "2025-12-14T12:10:49.271Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Result.cs",
+              "DocumentMoniker": "C:\\Users\\arongeo\\Desktop\\F1MAUI1\\MobilProj\\Model\\Result.cs",
+              "RelativeDocumentMoniker": "MobilProj\\Model\\Result.cs",
+              "ToolTip": "C:\\Users\\arongeo\\Desktop\\F1MAUI1\\MobilProj\\Model\\Result.cs",
+              "RelativeToolTip": "MobilProj\\Model\\Result.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwAgAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-13T10:14:27.052Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Microsoft.NET.EolTargetFrameworks.targets",
+              "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\9.0.306\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.EolTargetFrameworks.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Program Files\\dotnet\\sdk\\9.0.306\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.EolTargetFrameworks.targets",
+              "ToolTip": "C:\\Program Files\\dotnet\\sdk\\9.0.306\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.EolTargetFrameworks.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\Program Files\\dotnet\\sdk\\9.0.306\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.EolTargetFrameworks.targets",
+              "ViewState": "AgIAABoAAAAAAAAAAAApwCUAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-12-13T10:41:29.854Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

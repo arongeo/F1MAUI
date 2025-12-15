@@ -12,7 +12,11 @@
         <ShellContent
         Title="Drivers' Standings"
         ContentTemplate="{DataTemplate views:DriverStandingsPage}" />
-        
+
+        <ShellContent
+            Title="Constructors' Standings"
+            ContentTemplate="{DataTemplate views:ConstructorStandingsPage}" />
+
     </TabBar>
 
     
