@@ -1,4 +1,6 @@
-﻿namespace MobilProj
+﻿using MobilProj.Services;
+
+namespace MobilProj
 {
     public partial class App : Application
     {

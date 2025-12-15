@@ -1,4 +1,6 @@
 ﻿using Microsoft.Extensions.Logging;
+using MobilProj.Services;
+using MobilProj.ViewModel;
 
 namespace MobilProj
 {
@@ -14,6 +16,7 @@ namespace MobilProj
                     fonts.AddFont("OpenSans-Regular.ttf", "OpenSansRegular");
                     fonts.AddFont("OpenSans-Semibold.ttf", "OpenSansSemibold");
                 });
+
 
 #if DEBUG
     		builder.Logging.AddDebug();

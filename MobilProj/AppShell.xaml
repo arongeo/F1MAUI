@@ -10,8 +10,9 @@
 
     <TabBar>
         <ShellContent
-        Title="Drivers"
-        ContentTemplate="{DataTemplate views:DriverView}" />
+        Title="Drivers' Standings"
+        ContentTemplate="{DataTemplate views:DriverStandingsPage}" />
+        
     </TabBar>
 
     

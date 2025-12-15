@@ -26,5 +26,12 @@ namespace MobilProj.Model
         public string Nationality { get; set; }
 
         public Driver() { }
+
+        public override bool Equals(object? obj)
+        {
+            var other = obj as Driver;
+            if (other == null) return false;
+            return this.DriverId == other.DriverId;
+        }
     }
 }

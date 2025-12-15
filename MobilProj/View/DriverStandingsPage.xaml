@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="MobilProj.View.DriverStandingsPage"
+             xmlns:vm="clr-namespace:MobilProj.ViewModel"
+             Title="DriverStandingsPage">
+    <ContentPage.BindingContext>
+        <vm:DriverStandingsViewModel />
+    </ContentPage.BindingContext>
+    <VerticalStackLayout>
+    <HorizontalStackLayout>
+        <Button Text="Frissit" Clicked="Button_Clicked" />
+    </HorizontalStackLayout>
+    <ScrollView>
+        <StackLayout BindableLayout.ItemsSource="{Binding DriverStandings}">
+            <BindableLayout.ItemTemplate>
+                <DataTemplate>
+                    <StackLayout Orientation="Horizontal">
+                        <Label Text="{Binding Driver.Name}" />
+                        <Label Text="{Binding Points}" />
+                    </StackLayout>
+                </DataTemplate>
+            </BindableLayout.ItemTemplate>
+        </StackLayout>
+    </ScrollView>
+    </VerticalStackLayout>
+</ContentPage>
