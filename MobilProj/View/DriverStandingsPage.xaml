@@ -23,7 +23,7 @@
             </CollectionView.ItemTemplate>
             <CollectionView.Footer>
                 <VerticalStackLayout>
-                    <Label Text="Top 10" VerticalOptions="Center" HorizontalOptions="Center" />
+                    <Label Text="Top 10" VerticalOptions="Center" Margin="10" FontSize="Title" />
                     <mc:ChartView Chart="{Binding Chart}" HeightRequest="500" />
                 </VerticalStackLayout>
             </CollectionView.Footer>
