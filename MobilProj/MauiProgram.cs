@@ -2,6 +2,7 @@
 using MobilProj.Services;
 using MobilProj.View;
 using MobilProj.ViewModel;
+using Microcharts.Maui;
 
 namespace MobilProj
 {
@@ -12,6 +13,7 @@ namespace MobilProj
             var builder = MauiApp.CreateBuilder();
             builder
                 .UseMauiApp<App>()
+                .UseMicrocharts()
                 .ConfigureFonts(fonts =>
                 {
                     fonts.AddFont("OpenSans-Regular.ttf", "OpenSansRegular");
@@ -26,6 +28,7 @@ namespace MobilProj
 
             builder.Services.AddTransient<ConstructorStandingsViewModel>();
             builder.Services.AddTransient<ConstructorStandingsPage>();
+
 #if DEBUG
     		builder.Logging.AddDebug();
 #endif

@@ -15,11 +15,12 @@ public partial class DriverStandingsPage : ContentPage
 		BindingContext = vm;
 	}
 
-	private async void Button_Clicked(object sender, EventArgs e) => await VM.RefreshStandings();
+	private async void Refresh_Clicked(object sender, EventArgs e) => await VM.RefreshStandings();
     protected override async void OnAppearing()
     {
 		if (VM != null)
 			await VM.LoadStandings();
     }
 
+	private async void Share_Clicked(object sender, EventArgs e) => await VM.ShareStandings();
 }
