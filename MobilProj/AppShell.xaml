@@ -16,5 +16,9 @@
         <ShellContent
             Title="Constructors' Standings"
             ContentTemplate="{DataTemplate views:ConstructorStandingsPage}" />
+
+        <ShellContent
+            Title="Races"
+            ContentTemplate="{DataTemplate views:RacesPage}" />
     </TabBar>
 </Shell>

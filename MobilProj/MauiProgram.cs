@@ -29,8 +29,11 @@ namespace MobilProj
             builder.Services.AddTransient<ConstructorStandingsViewModel>();
             builder.Services.AddTransient<ConstructorStandingsPage>();
 
+            builder.Services.AddTransient<RacesViewModel>();
+            builder.Services.AddTransient<RacesPage>();
+
 #if DEBUG
-    		builder.Logging.AddDebug();
+            builder.Logging.AddDebug();
 #endif
 
             return builder.Build();
